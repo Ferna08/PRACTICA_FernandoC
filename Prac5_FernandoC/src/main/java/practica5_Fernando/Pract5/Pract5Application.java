@@ -1,4 +1,4 @@
-package practica5_FernandoC.Pract5;
+package practica5_Fernando.Pract5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
